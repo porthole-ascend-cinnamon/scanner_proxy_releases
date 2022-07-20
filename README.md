@@ -3,7 +3,7 @@
 ### Опис
 
 1. Автоматично шукає і перевіряє публічні проксі, та надсилає робочі для використання mhddos_proxy
-2. Понад **20 разів** ефективніший за попередню версію
+2. Понад **10 разів** ефективніший за попередню версію
 3. Потребує стабільне (бажано провідне) з'єднання - найкращий варіант - виділені сервери
 4. Тільки Linux та macOS, обидві через Docker
 5. Майте на увазі - ви можете покласти свою мережу, якщо вона слабка, або отримати звіт про порушення / бути
@@ -22,7 +22,7 @@
 ### Description
 
 1. Automatically searches and verifies public proxies, then send the working ones to be used by mhddos_proxy
-2. Over **20 times** more efficient then previous version
+2. Over **10 times** more efficient then previous version
 3. Requires stable (preferably wired) connection - dedicated server is the best option
 4. Only Linux and macOS, both via Docker
 5. Beware - you can down your network if it's weak, and receive abuse report / get blocked at any time
